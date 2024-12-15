@@ -3,10 +3,9 @@
 An App Created In Flutter By **Hamad Amjad**.
 This Is An Hopital Appointment Booking App With Complete Admin Control Also Added.
 In Admin Mode You Can Add & Manage Doctors and View Booked Appointments Of A Certain Doctor.
-The Ddta is Stored On Firebase.
+The Data is Stored On Firebase.
 
 This App Can be Modified From Hospital Appointment Booking App To Any Sort Of Appointment Booker.
-
 
 **Contact: hamadamjad024@gmail.com**
 
