@@ -6,19 +6,18 @@ In Admin Mode You Can Add & Manage Doctors and View Booked Appointments Of A Cer
 The Ddta is Stored On Firebase.
 
 This App Can be Modified From Hospital Appointment Booking App To Any Sort Of Appointment Booker.
+
+
 **Contact: hamadamjad024@gmail.com**
 
 
 
 ## Output Of The App 
+https://github.com/user-attachments/assets/81f7cf26-beb4-458c-bf09-1bd94937a803
 
-This project is a starting point for a Flutter application.
+https://github.com/user-attachments/assets/5dc8503e-9978-4a6a-a943-6f00057ad042
 
-A few resources to get you started if this is your first Flutter project:
+You Can Access The Admin Side By the Drawer.
+Type **admin** in both text fields to access Admin Side.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Contact: hamadamjad024@gmail.com**
