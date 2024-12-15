@@ -1,8 +1,16 @@
-# appointmentbooker
+# Hospital Appointment Booker
 
-A new Flutter project.
+An App Created In Flutter By **Hamad Amjad**.
+This Is An Hopital Appointment Booking App With Complete Admin Control Also Added.
+In Admin Mode You Can Add & Manage Doctors and View Booked Appointments Of A Certain Doctor.
+The Ddta is Stored On Firebase.
 
-## Getting Started
+This App Can be Modified From Hospital Appointment Booking App To Any Sort Of Appointment Booker.
+**Contact: hamadamjad024@gmail.com**
+
+
+
+## Output Of The App 
 
 This project is a starting point for a Flutter application.
 
